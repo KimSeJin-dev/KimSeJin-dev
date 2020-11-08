@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimSeJin-dev&show_icons=true&theme=radical)
 
 <!--
